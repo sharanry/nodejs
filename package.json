@@ -1,0 +1,23 @@
+{
+  "name": "@sharan/fcc",
+  "version": "1.0.0",
+  "description": "test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Sharan Yalburgi",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharanry/nodejs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sharanry/nodejs/issues"
+  },
+  "homepage": "https://github.com/sharanry/nodejs#readme"
+}
